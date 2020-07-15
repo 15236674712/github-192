@@ -11,6 +11,7 @@ public class Github192ApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("==Github写的代码==");
     }
 
 }
